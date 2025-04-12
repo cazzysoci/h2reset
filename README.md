@@ -5,5 +5,6 @@ git clone https://github.com/cazzysoci/h2reset
 
 cd h2reset
 
-node rapid.js
+node rapid.js mode time threads proxyfile rate target
+
 ```
